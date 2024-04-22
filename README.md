@@ -1,6 +1,6 @@
 
 ## Prime Patterns
-![Alt text for the image]([prime.png](https://github.com/Tonumoy/Primes_on_Poles/blob/main/Prime_patterns.png))
+![Alt text for the image](https://github.com/Tonumoy/Primes_on_Poles/blob/main/Prime_patterns.png)
 This Jupyter notebook visualizes the distribution of prime numbers on a polar plot using an animated format. The notebook demonstrates an engaging method to visualize prime numbers as they are identified and plotted sequentially.
 
 ### Features
