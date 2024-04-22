@@ -1,6 +1,6 @@
 
 ## Prime Patterns
-
+![Alt text for the image](example_image.png)
 This Jupyter notebook visualizes the distribution of prime numbers on a polar plot using an animated format. The notebook demonstrates an engaging method to visualize prime numbers as they are identified and plotted sequentially.
 
 ### Features
@@ -21,10 +21,7 @@ Ensure you have Python installed with the following dependencies:
 - `matplotlib`
 - `numpy`
 
-Run the notebook cell by cell to observe the generation and plotting of prime numbers. The final output includes a saved animation in MP4 format.
-
-### Animation Video
-You can view the animation video here: [Prime Animation.mp4]([sandbox:/mnt/data/animation.mp4](https://github.com/Tonumoy/Primes_on_Poles/blob/main/prime_patterns.mp4))
+Run the notebook to observe the generation and plotting of prime numbers. The final output includes a saved animation in MP4 format.
 
 ### Contributions
 Feel free to fork or contribute to this project by enhancing the visualization techniques or extending the prime number generator for larger datasets.
