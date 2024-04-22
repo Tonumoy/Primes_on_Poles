@@ -24,7 +24,7 @@ Ensure you have Python installed with the following dependencies:
 Run the notebook cell by cell to observe the generation and plotting of prime numbers. The final output includes a saved animation in MP4 format.
 
 ### Animation Video
-You can view the animation video here: [View Animation.mp4](sandbox:/mnt/data/animation.mp4)
+You can view the animation video here: [Prime Animation.mp4]([sandbox:/mnt/data/animation.mp4](https://github.com/Tonumoy/Primes_on_Poles/blob/main/prime_patterns.mp4))
 
 ### Contributions
 Feel free to fork or contribute to this project by enhancing the visualization techniques or extending the prime number generator for larger datasets.
